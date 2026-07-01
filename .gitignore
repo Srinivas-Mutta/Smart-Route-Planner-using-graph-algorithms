@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
