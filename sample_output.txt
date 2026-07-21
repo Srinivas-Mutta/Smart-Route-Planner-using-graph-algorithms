@@ -1,0 +1,19 @@
+=================================
+       SMART ROUTE PLANNER
+=================================
+
+Available Locations:
+- Kanpur
+- Delhi
+- Jaipur
+- Agra
+- Lucknow
+
+Enter source location: Delhi
+Enter destination location: Kanpur
+
+=================================
+          ROUTE RESULT
+=================================
+Shortest Distance: 523 km
+Optimal Route: Delhi -> Agra -> Kanpur
